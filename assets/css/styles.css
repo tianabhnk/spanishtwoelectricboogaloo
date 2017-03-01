@@ -1,0 +1,144 @@
+body.index {
+    background: #403936
+  url(../images/9952807853_f961ab4aca_b_waifu2x_photo_noise3_tta_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+body.clima {
+    background: #403936
+  url(../images/wallpaper-2979993.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+body.vacacion {
+    background: #403936
+  url(../images/518e644e9a32199317.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+body.comida {
+    background: #403936
+  url(../images/empanada-dough.jpg);
+    background-size: 100%;
+    background-repeat: ;
+  }
+body.entretenimiento {
+    background: #403936
+  url(../images/brazuca-world-cup-adidas-soccer-ball.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+body.sources {
+    background: #403936
+  url(../images/chile-patagonia-torres-del-paine-guanaco-in-front-of-torres.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+body.introduccion {
+    background: #403936
+  url(../images//santiago-1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+h1{
+    color: white;
+    text-align: center;
+    font-size: 12em;
+    margin: .5em;
+    padding: 20px;
+    background-color: rgba(47,79,79, .5);
+}
+h1.why{
+    color: white;
+    text-align: center;
+    font-size: 12em;
+    margin: .5em;
+    padding: 20px;
+    margin-left: 20px;
+}
+h3{
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
+nav{
+    background-color: rgba(0, 0, 0, .3);
+}
+
+nav li{
+    list-style: none;
+}
+nav ul li{
+    font-size: 2em;
+    display: inline-block;
+    margin: 0px;
+    padding: 17px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    margin: 2em;
+}
+nav ul li a:hover{
+    color: rgba(255, 255, 255, .5);
+    /*text-decoration: underline*/
+    transition: 0.6s;
+}
+a.footerlinks{
+    color: white;
+    text-align: ;
+    margin: 1em;
+    display: block;
+    width: 6em
+}
+a.footerlinks:hover{
+    color: gray;
+}
+p {
+    color: white;
+    text-align: center;
+    width: 55em;
+    padding: 10px;
+    margin: auto;
+    border: solid white 1px;
+    background-color: rgba(47,79,79, .5);
+}
+p#boldit{
+    font-weight: bold;
+}
+p#imagetext{
+    background: none;
+    border: none;
+    width: auto;
+}
+p.content {
+    color: white;
+    text-align: center;
+    width: 45em;
+    padding: 20px;
+    margin: auto;
+    border: solid white 1px;
+    background-color: none;
+}
+div {
+    padding: 5px;
+    margin: 5em;
+}
+div.images{
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    background-color: rgba(64,57,54,.7);
+    border: solid 1px white;
+    width: 37em;
+}
+img {
+    border: .2px solid white;
+}
+footer{
+    color: white;
+    background-color: #403936;
+    padding: .4em;
+    position: absolute;
+    width: 1498px;
+}
